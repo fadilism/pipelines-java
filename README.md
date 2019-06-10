@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/fadilframadian/projectTest/_apis/build/status/fadilism.pipelines-java?branchName=master)](https://dev.azure.com/fadilframadian/projectTest/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
